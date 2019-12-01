@@ -14,6 +14,7 @@ public class ExampleTest {
 	public void postJira()
 	{
 		System.out.println("Added the method after cloning");
+		System.out.println("This is GITX");
 	}
 
 }
