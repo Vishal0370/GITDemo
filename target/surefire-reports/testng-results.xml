@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="30857" started-at="2019-11-10T22:07:28 IST" finished-at="2019-11-10T22:07:59 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="30857" started-at="2019-11-10T22:07:28 IST" finished-at="2019-11-10T22:07:59 IST">
+      <class name="qaclickacademy.mouseoverTest">
+        <test-method status="PASS" signature="mo()[pri:0, instance:qaclickacademy.mouseoverTest@1794d431]" name="mo" duration-ms="22796" started-at="2019-11-10T22:07:28 IST" finished-at="2019-11-10T22:07:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mo -->
+      </class> <!-- qaclickacademy.mouseoverTest -->
+      <class name="qaclickacademy.tablegridTest">
+        <test-method status="PASS" signature="tab()[pri:0, instance:qaclickacademy.tablegridTest@42e26948]" name="tab" duration-ms="8002" started-at="2019-11-10T22:07:51 IST" finished-at="2019-11-10T22:07:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tab -->
+      </class> <!-- qaclickacademy.tablegridTest -->
+      <class name="qaclickacademy.ExampleTest">
+        <test-method status="PASS" signature="ex()[pri:0, instance:qaclickacademy.ExampleTest@39c0f4a]" name="ex" duration-ms="7" started-at="2019-11-10T22:07:28 IST" finished-at="2019-11-10T22:07:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ex -->
+      </class> <!-- qaclickacademy.ExampleTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
