@@ -22,6 +22,7 @@ public class ExampleTest {
 	{
 		System.out.println("Hi....");
 		System.out.println("Helloooo");
+		System.out.println("This is GITX in develop branch");
 	}
 
 }
