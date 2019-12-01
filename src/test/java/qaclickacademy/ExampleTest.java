@@ -16,5 +16,12 @@ public class ExampleTest {
 		System.out.println("Added the method after cloning");
 		System.out.println("This is GITX");
 	}
+	
+	@Test
+	public void developBranch()
+	{
+		System.out.println("Hi....");
+		System.out.println("Helloooo");
+	}
 
 }
