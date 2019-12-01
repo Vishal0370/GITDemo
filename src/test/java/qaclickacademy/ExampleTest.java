@@ -9,5 +9,11 @@ public class ExampleTest {
 	{
 		System.out.println("This is example class");
 	}
+	
+	@Test
+	public void postJira()
+	{
+		System.out.println("Added the method after cloning");
+	}
 
 }
